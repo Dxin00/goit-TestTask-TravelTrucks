@@ -1,0 +1,60 @@
+:root {
+  --main: #101828;
+  --text: #475467;
+  --white: #fff;
+  --button: #e44848;
+  --button-hover: #d84343;
+  --rating: #ffc531;
+  --inputs: #f7f7f7;
+  --badges: #f2f4f7;
+  --gray: #61666e;
+  --gray-light: #dadde1;
+
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+
+button {
+  border: none;
+  cursor: pointer;
+}
+
+p:last-child {
+  margin-bottom: 0;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+li,
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  margin: 0;
+}
